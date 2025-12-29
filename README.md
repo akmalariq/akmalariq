@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akmal+Ariq;Data+Engineer+%7C+Aspiring+AI+Engineer;Building+Data+Pipelines+%26+ML+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Akmal+Ariq;Data+Engineer+%7C+Aspiring+AI+Engineer;Building+Data+Pipelines+%26+ML+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -98,7 +98,7 @@ class AkmalAriq:
 
 - 🔄 Transitioning from **Data Engineering** → **AI Engineering**
 - 📚 Learning **LangChain**, **RAG**, and **Vector Databases**
-- 🚀 fasefwaeBuilding end-to-end **ML pipelines**
+- 🚀 Building end-to-end **ML pipelines**
 - 🤝 Open to collaborate on **Data/AI projects**
 
 ---
