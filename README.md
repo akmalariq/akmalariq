@@ -98,7 +98,7 @@ class AkmalAriq:
 
 - 🔄 Transitioning from **Data Engineering** → **AI Engineering**
 - 📚 Learning **LangChain**, **RAG**, and **Vector Databases**
-- 🚀 Building end-to-end **ML pipelines**
+- 🚀 fasefwaeBuilding end-to-end **ML pipelines**
 - 🤝 Open to collaborate on **Data/AI projects**
 
 ---
